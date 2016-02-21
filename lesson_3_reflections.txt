@@ -9,3 +9,6 @@ Unlike clone, forks adds an independent repository and any commit later will not
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Keep track of how long I have go with my local changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would discuss with my collaborators each time we have some progress or conflict. Using Git would definitely be much easier.
